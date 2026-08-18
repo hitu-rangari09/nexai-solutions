@@ -1,0 +1,189 @@
+{
+  "schema": "topic-shortlist/v1",
+  "generated_at": "2026-08-18",
+  "generated_by": "trend-research (Mode A: Scan -> Score -> Shortlist)",
+  "niche": "Fully-funded study abroad for Indian students",
+
+  "anchor_assumption": {
+    "assumption": "CSC (Chinese Government Scholarship) is treated as the anchor program for the first video.",
+    "why": "It is the program the owner named first and the one with the clearest annual portal cycle to build a runway around.",
+    "status": "UNCONFIRMED",
+    "impact_if_wrong": "If the owner went through MEXT, Mitsui Bussan, DSU Italy, or a UK award instead, candidates 1-4 and 6-9 re-anchor to that program. The scoring logic holds; the program name changes. Do not proceed to Mode B until the owner confirms which program they personally went through.",
+    "hard_rule": "A first video framed as lived experience must be about a program the owner actually went through. If none of these is that program, the whole shortlist is rebuilt."
+  },
+
+  "timing_context": {
+    "today": "2026-08-18",
+    "reasoning": "August sits between cycles. The people searching right now split into two groups: those preparing for an application window that opens later in the year, and those who were selected and are about to fly out. Content aimed at the months-ahead preparation runway is in season now; content aimed at filling in a live portal is not.",
+    "verified": false,
+    "note": "Specific cycle dates were NOT verified against primary sources at this stage. Aggregator search results suggested a CSC window roughly December-April and a MEXT embassy deadline around May, but those are unverified aggregator claims and must not enter a script. The research stage verifies dates against the embassy, CSC, MEXT, and Mitsui pages directly."
+  },
+
+  "scan": {
+    "candidate_count": 22,
+    "provenance_note": "Provenance is recorded honestly per candidate. 'general knowledge' means it came from reasoning about the domain, not from a source, and is marked as such rather than dressed up as research.",
+    "candidates": [
+      {"id": 1, "idea": "What the CSC application portal actually asks for, screen by screen", "provenance": "general knowledge + owner's stated documentation"},
+      {"id": 2, "idea": "The document set to assemble in the months BEFORE the portal opens", "provenance": "general knowledge + timing reasoning"},
+      {"id": 3, "idea": "MEXT embassy track vs university recommendation track, side by side", "provenance": "search: MEXT/Mitsui result set"},
+      {"id": 4, "idea": "Mitsui Bussan: the multi-year structure and who it is actually for", "provenance": "search: MEXT/Mitsui result set"},
+      {"id": 5, "idea": "DSU Italy regional right-to-study grants vs university scholarships", "provenance": "owner's list; not researched"},
+      {"id": 6, "idea": "Which UK full-rides actually exist for Indian students", "provenance": "owner's list; not researched"},
+      {"id": 7, "idea": "The money gap: what you pay between landing and your first stipend", "provenance": "search: first-month costs returned nothing specific to this audience"},
+      {"id": 8, "idea": "The language-of-instruction trap: programs that look English-taught but are not", "provenance": "search: CSC rejection-reasons result set"},
+      {"id": 9, "idea": "Lining up recommendation letters months early, and what to hand your referee", "provenance": "general knowledge"},
+      {"id": 10, "idea": "What a real SOP looks like next to a template one, redacted and annotated", "provenance": "search: generic-essay rejection theme + owner's documentation"},
+      {"id": 11, "idea": "Funds parking: why a large last-minute deposit hurts your financial proof", "provenance": "search: CSC rejection-reasons result set (unverified aggregator claim)"},
+      {"id": 12, "idea": "The attestation / apostille chain for Indian documents, in the right order", "provenance": "general knowledge"},
+      {"id": 13, "idea": "What 'fully funded' actually excludes", "provenance": "general knowledge + search gap"},
+      {"id": 14, "idea": "A month-by-month calendar for one full application cycle", "provenance": "general knowledge + timing reasoning"},
+      {"id": 15, "idea": "Rejection reasons you can control vs the ones you cannot", "provenance": "search: rejection-reasons result set"},
+      {"id": 16, "idea": "How to choose your university picks under the portal's limit", "provenance": "search: CSC result set (three-university limit, unverified)"},
+      {"id": 17, "idea": "Medical exam and health certificate requirements", "provenance": "general knowledge"},
+      {"id": 18, "idea": "What happens between the award letter and the visa", "provenance": "general knowledge"},
+      {"id": 19, "idea": "First-month setup checklist in the destination country", "provenance": "search: hidden-costs result set (all generic/US-centric)"},
+      {"id": 20, "idea": "How to tell an official channel from an agent trying to sell you something", "provenance": "general knowledge + scam-adjacency risk noted in niche scoring"},
+      {"id": 21, "idea": "What I would do differently if I applied again", "provenance": "owner's lived experience"},
+      {"id": 22, "idea": "CSC vs MEXT vs Mitsui on what each actually covers", "provenance": "general knowledge + search result sets"}
+    ]
+  },
+
+  "scoring_criteria": {
+    "audience_fit": 0.25,
+    "search_question_intent": 0.20,
+    "differentiation": 0.20,
+    "production_feasibility": 0.15,
+    "evergreen_value": 0.10,
+    "policy_copyright_safety": 0.10,
+    "scale_note": "1-100 subjective prioritization aid. NOT a prediction of views, retention, or subscribers."
+  },
+
+  "shortlist": [
+    {
+      "rank": 1,
+      "candidate_ids": [2, 9, 12, 14],
+      "title_working": "The paperwork you should already be starting, months before the portal opens",
+      "angle": "A month-by-month runway for the next cycle, built backwards from the portal opening. What to start now, what can wait, and what takes longer than anyone expects (attestation chains, referees, language tests).",
+      "viewer_walks_away_with": "A dated checklist of what to do this month, and the specific items that will bottleneck them if they start late.",
+      "scores": {
+        "audience_fit": 9,
+        "search_question_intent": 8,
+        "differentiation": 8,
+        "production_feasibility": 9,
+        "evergreen_value": 9,
+        "policy_copyright_safety": 8,
+        "arithmetic": "(9x0.25)+(8x0.20)+(8x0.20)+(9x0.15)+(9x0.10)+(8x0.10) = 8.50",
+        "total": 85
+      },
+      "why_it_scores_here": "In season right now, which nothing else on this list is. Draws on sequencing knowledge the owner has and aggregators structurally do not, because a blog optimizes for the search term, not for what you do in August. Cheapest of the five to produce: no portal access needed, no unredacted documents, no money figures.",
+      "why_it_might_flop": "Preparation content is less clickable than outcome content. Nobody feels urgency about a deadline that is months away, which is exactly why the video is useful and exactly why it may underperform the ones that promise a shortcut.",
+      "research_burden": "Medium. The runway structure comes from experience, but every date it anchors to must be verified against primary sources, and the video should say plainly that the owner is describing the shape of the cycle, not guaranteeing this cycle's dates."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": [7, 13, 19],
+      "title_working": "What 'fully funded' does not cover, and the gap before your first stipend",
+      "angle": "The line items a scholarship package leaves out, and the real window between arriving and being paid. Framed as one person's documented experience, not as a budget anyone should copy.",
+      "viewer_walks_away_with": "A concrete list of costs to plan for, and the knowledge that a gap exists at all — which is the part that blindsides people.",
+      "scores": {
+        "audience_fit": 9,
+        "search_question_intent": 6,
+        "differentiation": 10,
+        "production_feasibility": 8,
+        "evergreen_value": 8,
+        "policy_copyright_safety": 7,
+        "arithmetic": "(9x0.25)+(6x0.20)+(10x0.20)+(8x0.15)+(8x0.10)+(7x0.10) = 8.15",
+        "total": 82
+      },
+      "why_it_scores_here": "The highest differentiation score on the list, and the only one with direct evidence behind it: searches for first-month costs and stipend gaps returned nothing specific to this audience, only generic listicles and loan-company blogs quoting unsourced percentages. This is the clearest gap found.",
+      "why_it_might_flop": "Scores lowest on search intent of the top two, and honestly so: people do not know to search for a problem they have not hit yet. Discovery would have to come from browse and suggestion rather than search, which is a harder path for a new channel.",
+      "research_burden": "Low on facts, HIGH on care. Every number is one person's experience in one city in one year. Exchange rates, rents, and disbursement schedules all move. The script must frame figures as 'what I paid, when I paid it' and never as 'what it costs'. This is the video most likely to be wrongly read as financial advice, hence safety 7.",
+      "flag": "Requires the owner's real numbers. If they do not want to share them, this video does not exist in this form."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": [8, 15, 11, 16],
+      "title_working": "The rejection reasons you can actually control",
+      "angle": "Separates the disqualifiers a candidate controls (language of instruction mismatch, wrong format, missing document, funds-parking red flags, wasting the limited university picks) from the outcomes they do not control. Honest about which is which.",
+      "viewer_walks_away_with": "A pre-submission checklist of self-inflicted rejections, and permission to stop blaming themselves for the rest.",
+      "scores": {
+        "audience_fit": 8,
+        "search_question_intent": 7,
+        "differentiation": 7,
+        "production_feasibility": 9,
+        "evergreen_value": 9,
+        "policy_copyright_safety": 8,
+        "arithmetic": "(8x0.25)+(7x0.20)+(7x0.20)+(9x0.15)+(9x0.10)+(8x0.10) = 7.85",
+        "total": 79
+      },
+      "why_it_scores_here": "Cheap to produce, durable, and genuinely useful. The 'what you cannot control' half is the differentiator — every aggregator promises control over everything, because that is what sells an application service.",
+      "why_it_might_flop": "The nearest thing on this list to content that already exists. The framing carries it; the topic alone does not.",
+      "research_burden": "Medium-high. Every specific disqualifier must be verified against primary program rules. The funds-parking and three-university-limit claims came from aggregator search results and are UNVERIFIED — they must be confirmed against the official source or cut. Do not repeat them on the strength of this file."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": [1, 16],
+      "title_working": "What the application portal actually asks for, screen by screen",
+      "angle": "A redacted walkthrough of the real form: every field, what it wants, where applicants stall, and which answers cannot be changed later.",
+      "viewer_walks_away_with": "The ability to sit down at the portal already knowing what is coming.",
+      "scores": {
+        "audience_fit": 8,
+        "search_question_intent": 9,
+        "differentiation": 7,
+        "production_feasibility": 5,
+        "evergreen_value": 8,
+        "policy_copyright_safety": 7,
+        "arithmetic": "(8x0.25)+(9x0.20)+(7x0.20)+(5x0.15)+(8x0.10)+(7x0.10) = 7.45",
+        "total": 75
+      },
+      "why_it_scores_here": "Highest search intent on the list, and the most faceless-native format there is. Held back almost entirely by feasibility.",
+      "why_it_might_flop": "Feasibility 5 is the problem: this needs live access to the portal, and in August the window may well be closed. Screenshots from a past cycle risk showing an interface that has since changed, which on this channel is a correctness failure, not a cosmetic one.",
+      "research_burden": "High, and gated. Requires portal access or dated archival screenshots, plus careful redaction of every field. Best held until the window is actually open.",
+      "flag": "Do not build this video on remembered screenshots. If the portal cannot be shown as it currently is, the video waits."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": [3, 22],
+      "title_working": "Two funding routes to the same degree, compared on what actually differs",
+      "angle": "A structural comparison of two programs or two tracks (e.g. an embassy route vs a university-recommendation route) on the axes that change your decision: who nominates you, what they cover, and what they demand in return.",
+      "viewer_walks_away_with": "A decision framework rather than a ranking.",
+      "scores": {
+        "audience_fit": 8,
+        "search_question_intent": 8,
+        "differentiation": 6,
+        "production_feasibility": 7,
+        "evergreen_value": 8,
+        "policy_copyright_safety": 7,
+        "arithmetic": "(8x0.25)+(8x0.20)+(6x0.20)+(7x0.15)+(8x0.10)+(7x0.10) = 7.35",
+        "total": 74
+      },
+      "why_it_scores_here": "Strong search intent and a durable format, but comparison content is the most crowded shape in this niche and the one an aggregator can most easily imitate.",
+      "why_it_might_flop": "If the owner has not been through both sides, half the video is researched rather than lived, which forfeits the channel's main advantage.",
+      "research_burden": "High. Two programs, both verified against primary sources, both of which change terms between cycles."
+    }
+  ],
+
+  "recommended": 1,
+  "recommended_because": "It is the only one on the list that is in season in August, it is the cheapest to produce, it needs no portal access and no personal financial figures, and its research burden is the most containable. It also establishes the channel's actual claim on the first video: sequencing knowledge that the aggregator pages structurally cannot supply.",
+  "argument_against_recommendation": "Candidate 2 sits on the clearest verified content gap found in this research, and preparation content is inherently less compelling than the money video. If the owner wants the strongest possible differentiation on video one and is willing to share real figures, candidate 2 is the defensible alternative. The 85-to-82 gap is well inside the noise of my own weighting.",
+
+  "not_shortlisted_but_worth_keeping": [
+    {"id": 10, "note": "SOP teardown — strong, but needs the owner's real SOP and very careful redaction. Good video three."},
+    {"id": 20, "note": "Spotting agents vs official channels — high public value, but scored down on safety: it must explain scam mechanics without naming or accusing any company."},
+    {"id": 21, "note": "What I would do differently — best made once the channel has established what the owner actually did."},
+    {"id": 5, "note": "DSU Italy — the owner named it, but nothing about it was researched here."},
+    {"id": 6, "note": "UK full-rides — same."}
+  ],
+
+  "unknowns": [
+    "Which program the owner personally went through. Blocks Mode B.",
+    "Whether the owner will show real documents, and how much they will redact.",
+    "Whether the owner will share real cost figures (gates candidate 2).",
+    "Language of the channel: English, Hindi, or Hinglish.",
+    "All cycle dates. Nothing here is verified against a primary source.",
+    "Search volume for any of these topics. Not measured.",
+    "Who already covers these well on YouTube. Not surveyed."
+  ],
+
+  "next_step": "Owner picks one. Only then does trend-research write videos/<slug>/topic.json and proceed to Mode B research."
+}
