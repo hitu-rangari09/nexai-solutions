@@ -1,0 +1,56 @@
+{
+  "schema": "thumbnail/v1",
+  "slug": null,
+  "generated_at": null,
+  "generated_by": "thumbnail-creation",
+
+  "constraints": {
+    "safe_text_words": "1-4 words, readable at 210x118px",
+    "no_face_channel": null,
+    "must_match_title_promise": true,
+    "no_misleading_imagery": true,
+    "no_copyrighted_logos_or_likenesses": true
+  },
+
+  "concepts": [
+    {
+      "id": 1,
+      "name": null,
+      "idea": null,
+      "focal_subject": null,
+      "text_overlay": null,
+      "composition": null,
+      "palette": null,
+      "emotion": null,
+      "why_it_fits_the_video": null,
+      "scores": {
+        "clarity_at_small_size": null,
+        "curiosity": null,
+        "honesty_to_content": null,
+        "distinct_from_competitors": null,
+        "production_effort": null,
+        "total": null,
+        "scale": "1-100, subjective prioritization aid — NOT a click-through prediction"
+      },
+      "ai_prompt": null,
+      "risks": null
+    }
+  ],
+
+  "ranked": [],
+  "recommended": null,
+  "recommended_because": null,
+
+  "production_spec": {
+    "canvas": "1280x720, <2MB, JPG or PNG",
+    "text": null,
+    "font": null,
+    "font_license": null,
+    "layers": [],
+    "contrast_check": "Test at 210x118 and in dark mode before finalizing",
+    "ab_pair": null
+  },
+
+  "owner_approved": false,
+  "open_questions": []
+}

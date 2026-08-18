@@ -1,0 +1,70 @@
+{
+  "schema": "research/v1",
+  "slug": null,
+  "generated_at": null,
+  "generated_by": "trend-research",
+
+  "search_log": [
+    {
+      "query": null,
+      "tool": null,
+      "run_at": null,
+      "useful": null
+    }
+  ],
+
+  "key_facts": [
+    {
+      "id": "F1",
+      "claim": null,
+      "detail": null,
+      "source_title": null,
+      "source_url": null,
+      "source_date": null,
+      "accessed_at": null,
+      "verified": false,
+      "confidence": "low | medium | high",
+      "notes": "If verified is false this claim must be labeled unverified in the script or cut."
+    }
+  ],
+
+  "numbers": [
+    {
+      "id": "N1",
+      "value": null,
+      "unit": null,
+      "what_it_measures": null,
+      "as_of": null,
+      "source_url": null,
+      "estimated": false,
+      "notes": "Never write a number here without a source or estimated:true."
+    }
+  ],
+
+  "definitions": [
+    { "term": null, "plain_english": null, "source_url": null }
+  ],
+
+  "counterpoints": [
+    { "claim_id": null, "disagreement": null, "source_url": null }
+  ],
+
+  "existing_coverage": [
+    {
+      "title": null,
+      "channel": null,
+      "url": null,
+      "what_they_covered": null,
+      "gap_we_can_fill": null,
+      "observed_at": null
+    }
+  ],
+
+  "unknowns": [],
+  "do_not_claim": [
+    "Anything not backed by an entry above."
+  ],
+  "copyright_flags": [
+    { "asset": null, "issue": null, "action_needed": null }
+  ]
+}
