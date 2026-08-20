@@ -1,0 +1,33 @@
+# --- secrets: never commit -------------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials*.json
+client_secret*.json
+token*.json
+
+# --- generated media (big, regenerable) ------------------------------------
+output/
+videos/**/audio/
+videos/**/renders/
+videos/**/assets/
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.aac
+*.psd
+
+# --- junk ------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# generated dashboard page (regenerate: python3 tools/dashboard.py --write)
+dashboard.html

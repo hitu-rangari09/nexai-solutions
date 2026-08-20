@@ -1,0 +1,37 @@
+{
+  "schema": "topic/v1",
+  "slug": null,
+  "working_title": null,
+  "generated_at": null,
+  "generated_by": "trend-research",
+
+  "one_line_premise": null,
+  "audience_question": null,
+  "promise_to_viewer": null,
+  "why_now": null,
+
+  "format": null,
+  "target_length_minutes": null,
+  "shorts_planned": 2,
+
+  "angle_options": [
+    { "angle": null, "why_it_works": null, "risk": null }
+  ],
+  "chosen_angle": null,
+  "chosen_because": null,
+
+  "scores": {
+    "audience_fit": null,
+    "search_intent": null,
+    "differentiation": null,
+    "production_feasibility": null,
+    "evergreen_vs_timely": null,
+    "total": null,
+    "scale": "1-100, subjective prioritization aid — NOT a performance prediction"
+  },
+
+  "known_risks": [],
+  "open_questions": [],
+  "owner_approved": false,
+  "notes": null
+}

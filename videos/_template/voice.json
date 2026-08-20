@@ -1,0 +1,79 @@
+{
+  "schema": "voice/v1",
+  "slug": null,
+  "generated_at": null,
+  "generated_by": "voice-production",
+
+  "direction": {
+    "persona": null,
+    "tone": null,
+    "energy": "1-10",
+    "pace_wpm_target": null,
+    "pause_style": null,
+    "emphasis_rules": null,
+    "breath_and_room": null
+  },
+
+  "delivery_map": [
+    {
+      "section": "hook",
+      "tone": null,
+      "pace": null,
+      "emphasize_words": [],
+      "pause_after": null
+    }
+  ],
+
+  "pronunciation": [
+    { "term": null, "say_it_as": null, "ipa": null, "source": null }
+  ],
+
+  "tts": {
+    "provider": null,
+    "provider_verified_supports_this": null,
+    "voice_id_env_var": "DEFAULT_TTS_VOICE_ID",
+    "model_env_var": "DEFAULT_TTS_MODEL",
+    "settings": {
+      "stability": null,
+      "similarity": null,
+      "style": null,
+      "speed": null
+    },
+    "note": "Key values live in .env only. Never write a key into this file.",
+    "cost_note": "Generating audio may consume paid credits. Do not run a paid generation without the owner's explicit go-ahead."
+  },
+
+  "voice_rights": {
+    "voice_is_synthetic": null,
+    "cloned_from_real_person": false,
+    "permission_documented": null,
+    "note": "Cloning a real person's voice requires their documented permission. No exceptions."
+  },
+
+  "review": {
+    "reviewed_at": null,
+    "issues_found": [
+      { "timestamp": null, "issue": null, "fix": null }
+    ],
+    "reread_lines": [],
+    "approved_by_owner": false
+  },
+
+  "export": {
+    "format": "wav 48kHz 24-bit (master), mp3 192kbps (proxy)",
+    "target_lufs": -14,
+    "true_peak_db": -1.0,
+    "files": [
+      { "role": "long-form master", "path": null, "duration": null, "exported_at": null }
+    ],
+    "checklist": [
+      "Script matches the approved script.md version",
+      "No mispronunciations in the pronunciation list",
+      "Levels normalized, no clipping",
+      "Silence trimmed at head/tail",
+      "Filename matches the video slug"
+    ]
+  },
+
+  "open_questions": []
+}

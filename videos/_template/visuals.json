@@ -1,0 +1,78 @@
+{
+  "schema": "visuals/v1",
+  "slug": null,
+  "generated_at": null,
+  "generated_by": "visual-planning",
+
+  "look": {
+    "style": null,
+    "palette": [],
+    "typography": null,
+    "motion_rules": null,
+    "aspect_ratios": ["16:9 long-form", "9:16 shorts"]
+  },
+
+  "scenes": [
+    {
+      "id": "S1",
+      "script_section": "hook",
+      "script_line": null,
+      "start": "0:00",
+      "end": "0:10",
+      "visual": null,
+      "source_type": "ai_generated | stock | self_made | screen_capture",
+      "on_screen_text": null,
+      "transition": null,
+      "notes": null
+    }
+  ],
+
+  "b_roll": [
+    {
+      "for_scene": "S1",
+      "description": null,
+      "where_to_get": null,
+      "license": null,
+      "license_verified": false,
+      "attribution_required": null,
+      "cost": "free | paid — paid requires the owner's explicit approval before purchase"
+    }
+  ],
+
+  "ai_visual_prompts": [
+    {
+      "for_scene": "S1",
+      "prompt": null,
+      "negative_prompt": null,
+      "aspect_ratio": null,
+      "seed": null,
+      "tool": null,
+      "avoid": "No real people's likenesses, no brand logos, no copyrighted characters, no trademarked designs."
+    }
+  ],
+
+  "edit_plan": {
+    "timeline_order": [],
+    "cut_rhythm": null,
+    "text_animation": null,
+    "music": {
+      "mood": null,
+      "source": null,
+      "license": null,
+      "license_verified": false,
+      "note": "Music must be a license the owner holds. Unverified = do not use."
+    },
+    "sfx": [],
+    "captions": "Burned-in captions for Shorts; YouTube captions for long-form.",
+    "ai_disclosure_treatment": null,
+    "export_specs": {
+      "long_form": "1920x1080, H.264, 24 or 30fps, -14 LUFS",
+      "shorts": "1080x1920, H.264, 30fps"
+    }
+  },
+
+  "copyright_flags": [
+    { "asset": null, "issue": null, "action_needed": null }
+  ],
+  "open_questions": []
+}

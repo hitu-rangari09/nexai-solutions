@@ -1,0 +1,215 @@
+{
+  "schema": "niches/v1",
+  "generated_at": "2026-08-18",
+  "generated_by": "niche-research",
+  "scale_note": "1-100 subjective prioritization aid. Not a prediction of views, subscribers, or revenue. The weights below are a judgement call and the owner should argue with any line they disagree with.",
+
+  "owner_supplied_claims_not_verified": [
+    "Medium-high CPM (niche 1) — no source. Ad rates are not observable from here and vary by season, geography of the audience, and advertiser demand.",
+    "Tech CPM is high (niche 2) — same. Not verified.",
+    "Huge, desperate search demand in India — plausible on its face, but no search-volume tool was available here. Not measured.",
+    "Sponsors exist (test prep, application services, forex/remittance) — not verified. Whether such sponsors would work with a new channel is a separate unverified question.",
+    "Owner has documentation and real experience (niche 1) — taken from the owner, not independently checkable, and treated as true for scoring."
+  ],
+
+  "candidates": [
+    {
+      "niche": "Fully-funded study abroad for Indian students",
+      "sub_angle": "First-person, document-level walkthroughs of specific programs (CSC, MEXT, Mitsui Bussan, DSU Italy, UK full-rides)",
+      "criteria": [
+        {
+          "name": "owner_fit",
+          "score_1_10": 9,
+          "weight": 0.20,
+          "contribution": 1.8,
+          "reasoning": "Owner states real lived experience and retained documentation. That is the one input that cannot be replicated by a competitor and cannot be outsourced. Sustaining 50 videos is realistic because application cycles repeat annually and each program has many stages.",
+          "researched": false,
+          "note": "Rests entirely on the owner's own claim."
+        },
+        {
+          "name": "faceless_feasibility",
+          "score_1_10": 8,
+          "weight": 0.15,
+          "contribution": 1.2,
+          "reasoning": "Screen recordings of portals, redacted document walkthroughs, timelines, checklists, and diagrams carry this format without a presenter. Voiceover plus screen capture is the native form.",
+          "researched": false,
+          "caveat": "Every real document shown must be redacted. Passport numbers, application IDs, addresses, referee details, and email headers are all disclosure risks, and a redaction mistake is permanent once uploaded."
+        },
+        {
+          "name": "search_evergreen_demand",
+          "score_1_10": 8,
+          "weight": 0.15,
+          "contribution": 1.2,
+          "reasoning": "Core how-to-apply material is evergreen with an annual refresh; deadlines recur. Structurally this is search-driven rather than browse-driven content, which suits a small channel.",
+          "researched": false,
+          "note": "Demand MAGNITUDE was not measured. Only the recurring structure is reasoned about."
+        },
+        {
+          "name": "content_depth",
+          "score_1_10": 9,
+          "weight": 0.15,
+          "contribution": 1.35,
+          "reasoning": "Multiplies out: programs x stages (eligibility, shortlisting, documents, SOP, recommendation letters, language requirements, interview, visa, pre-departure, stipend disbursement, first month). Dozens of non-repetitive videos without straining.",
+          "researched": false
+        },
+        {
+          "name": "differentiation",
+          "score_1_10": 8,
+          "weight": 0.15,
+          "contribution": 1.2,
+          "reasoning": "OBSERVED: two searches for CSC 2026 and MEXT/Mitsui 2026 for Indian students returned mostly agency, coaching, and SEO-aggregator pages rather than embassy, MEXT, CSC, or Mitsui primary sources. That is weak evidence that the credible-source gap the owner describes is real in web search.",
+          "researched": true,
+          "limits": "Says nothing about YouTube specifically. Two searches from a US-routed tool is not a survey of the Indian-language or Indian-geo content landscape. YouTube saturation was NOT measured."
+        },
+        {
+          "name": "production_cost",
+          "score_1_10": 6,
+          "weight": 0.10,
+          "contribution": 0.6,
+          "reasoning": "Highest research burden of the two. Deadlines, eligibility thresholds, and required documents change per cycle and per university, and must be re-verified against primary sources before every publish. Redaction adds edit time.",
+          "researched": false
+        },
+        {
+          "name": "policy_advertiser_risk",
+          "score_1_10": 5,
+          "weight": 0.10,
+          "contribution": 0.5,
+          "reasoning": "The lowest score on this niche, and the reason is worth reading twice. People will make expensive, irreversible life decisions on this content: money spent, years committed, visas applied for. An out-of-date deadline or a wrong eligibility line does real harm. Adjacent risks: being mistaken for a licensed education agent, proximity to the large scholarship-scam ecosystem, and a direct conflict of interest if the sponsors named (application services, forex) ever pay you.",
+          "researched": false
+        }
+      ],
+      "total_score": 79,
+      "arithmetic": "(9x0.20)+(8x0.15)+(8x0.15)+(9x0.15)+(8x0.15)+(6x0.10)+(5x0.10) = 7.85 -> 78.5 -> 79",
+      "example_titles": [
+        "CSC scholarship: what the application portal actually asks for",
+        "The MEXT embassy track vs the university track, side by side",
+        "Mitsui Bussan: the 5-year structure, and who it is actually for"
+      ],
+      "why_it_could_fail": "The owner's own stated risk is the right one: becoming the person who talks about the thing instead of doing it. Beyond that, the accuracy burden compounds. One confidently wrong deadline that a viewer relies on is worse than fifty videos that were never made, and the correction never reaches everyone who saw the error.",
+      "policy_or_copyright_exposure": "Do not show university or government logos, seals, or letterheads beyond what is necessary and factual. Do not reproduce a full award letter, admission letter, or another person's documents. Never show an unredacted document. Sponsorship from application services or forex/remittance companies creates a disclosure obligation and a conflict that has to be stated on camera, not just in the description. Avoid any framing that implies you can improve someone's odds of selection.",
+      "could_not_verify": [
+        "CPM or RPM for this category",
+        "Search volume in India, in any language",
+        "YouTube-specific saturation and who already covers this well",
+        "Whether the named sponsor categories would sponsor a new channel",
+        "Current-cycle deadlines and eligibility for any named program (must be checked against primary sources per video, not once)"
+      ]
+    },
+    {
+      "niche": "Building real things with AI coding tools",
+      "sub_angle": "Shipping an actual product per video, rather than tool listicles",
+      "criteria": [
+        {
+          "name": "owner_fit",
+          "score_1_10": 7,
+          "weight": 0.20,
+          "contribution": 1.4,
+          "reasoning": "PROVISIONAL. Unlike niche 1, the owner did not state their own experience here. This score assumes competent shipping ability and should be re-scored once the owner says so. If they cannot reliably ship a working product on a video cadence, this drops sharply and takes the total with it.",
+          "researched": false,
+          "needs_owner_input": true
+        },
+        {
+          "name": "faceless_feasibility",
+          "score_1_10": 7,
+          "weight": 0.15,
+          "contribution": 1.05,
+          "reasoning": "CONDITIONAL. Screen capture plus voiceover is fully faceless and is the natural form for this. But the owner wrote 'on camera', which if it means their face is a different channel than the one this repo is set up for. Scored on the screen-capture reading.",
+          "researched": false,
+          "needs_owner_input": true
+        },
+        {
+          "name": "search_evergreen_demand",
+          "score_1_10": 5,
+          "weight": 0.15,
+          "contribution": 0.75,
+          "reasoning": "The weakest structural point. Content pinned to specific AI tools and model versions decays fast, and the decay is not gradual: a tool changes its interface or pricing and the video is stale rather than merely dated. Evergreen value has to come from the engineering reasoning, not the tool.",
+          "researched": false
+        },
+        {
+          "name": "content_depth",
+          "score_1_10": 7,
+          "weight": 0.15,
+          "contribution": 1.05,
+          "reasoning": "Every build is a video, so depth is nominally unlimited. Discounted because the format repeats: after a dozen build videos the structural sameness is the risk, not running out of ideas.",
+          "researched": false
+        },
+        {
+          "name": "differentiation",
+          "score_1_10": 7,
+          "weight": 0.15,
+          "contribution": 1.05,
+          "reasoning": "The owner's instinct is sound: actually shipping is harder to fake than a listicle, and hard-to-mass-produce formats are structurally more defensible. Not scored higher because the space is crowded and getting more so, and 'I built a real thing' is itself now a common framing.",
+          "researched": false,
+          "limits": "Saturation not measured."
+        },
+        {
+          "name": "production_cost",
+          "score_1_10": 4,
+          "weight": 0.10,
+          "contribution": 0.4,
+          "reasoning": "The most expensive format of the two by a wide margin. Each video requires actually building something that works, and build time is not predictable. A build that goes wrong costs the video, not just the day.",
+          "researched": false
+        },
+        {
+          "name": "policy_advertiser_risk",
+          "score_1_10": 8,
+          "weight": 0.10,
+          "contribution": 0.8,
+          "reasoning": "The strongest point of this niche. Low copyright exposure, advertiser-friendly subject, no life-consequence advice, nobody harmed by a mistake. Watch only for tool UI and logos on screen and for disclosure if a tool vendor ever pays.",
+          "researched": false
+        }
+      ],
+      "total_score": 65,
+      "arithmetic": "(7x0.20)+(7x0.15)+(5x0.15)+(7x0.15)+(7x0.15)+(4x0.10)+(8x0.10) = 6.50 -> 65",
+      "example_titles": [
+        "Building a working invoice tracker in one sitting, start to finish",
+        "Where the AI coding tool got it wrong, and what I had to fix by hand",
+        "The parts of this build the AI could not do"
+      ],
+      "why_it_could_fail": "Two ways. The decay problem: tool-pinned videos age badly and the back catalogue stops working for you. And the cost problem: shipping a real product per video is a heavy, unpredictable cadence to sustain alongside research, scripting, and editing.",
+      "policy_or_copyright_exposure": "Tool interfaces and logos appear on screen throughout, which is normal but should stay factual and non-endorsing. Never show API keys, tokens, or credentials in a screen recording. If a tool vendor sponsors, disclose in-video and in the description. Do not show other people's code without a license that permits it.",
+      "could_not_verify": [
+        "CPM or RPM for tech content",
+        "Current saturation of the build-along format on YouTube",
+        "The owner's own shipping ability and cadence",
+        "Whether 'on camera' means faceless screen capture or the owner's face"
+      ]
+    }
+  ],
+
+  "ranked": [
+    "Fully-funded study abroad for Indian students (79)",
+    "Building real things with AI coding tools (65)"
+  ],
+  "recommended": "Fully-funded study abroad for Indian students",
+  "recommended_because": "It wins on the criteria that are hardest to buy: an experience the owner already has and a competitor cannot copy, deep non-repetitive content, and evergreen structure with annual refresh. The differentiation argument is the only one here with any evidence behind it, weak as that evidence is. It is also the cheaper format to produce per video, since it draws on documentation that already exists rather than requiring a product to be built from scratch each time.",
+  "argument_against_recommendation": "Three real objections. First, the owner's own: this niche rewards talking about the experience rather than continuing to have it, and that is a slow trap, not an obvious one. Second, it carries the higher consequence-of-error profile of the two by a wide margin, because viewers act on it with money and years. Third, the two scores are 79 and 65 on weights I chose, and the gap is small enough that shifting production_cost or policy_risk by a few points would narrow it considerably. Treat this as a prioritization, not a verdict.",
+
+  "sources": [
+    {
+      "url": "https://www.chinesescholarshipcouncil.com/scholarships-in-china",
+      "title": "Search result set for 'Chinese Government Scholarship CSC 2026 application Indian students'",
+      "accessed_at": "2026-08-18",
+      "used_for": "Establishing that CSC 2026 material is active and that top English results skew to agency and aggregator sites rather than primary sources",
+      "primary_source": false
+    },
+    {
+      "url": "https://leapscholar.com/blog/scholarships-in-japan-for-indian-students/",
+      "title": "Search result set for 'MEXT scholarship Japan 2026 Mitsui Bussan scholarship India eligibility official'",
+      "accessed_at": "2026-08-18",
+      "used_for": "Same observation for MEXT and Mitsui Bussan: results were dominated by coaching, language-school, and aggregator blogs rather than embassy, MEXT, or Mitsui primary pages",
+      "primary_source": false
+    }
+  ],
+
+  "unknowns": [
+    "No CPM, RPM, or revenue figure for either niche. Not observable from here.",
+    "No search-volume measurement for either niche, in any language or geography.",
+    "No YouTube saturation measurement for either niche.",
+    "Deadlines, eligibility, and program terms quoted in any search result above are NOT verified against primary sources and must not be used in a script. The research stage has to go to the embassy, CSC, MEXT, and Mitsui pages directly.",
+    "The owner's shipping ability for niche 2.",
+    "Whether 'on camera' in niche 2 means faceless screen capture or the owner's face."
+  ],
+
+  "next_step": "Owner picks a niche and a first topic. channel.md is NOT written until they approve the text."
+}

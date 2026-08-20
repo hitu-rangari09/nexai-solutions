@@ -1,0 +1,66 @@
+{
+  "schema": "upload/v1",
+  "slug": null,
+  "generated_at": null,
+  "generated_by": "upload-preparation",
+
+  "_notice": "DRAFT ONLY. This file is copy-paste material for the owner. Nothing here is uploaded, published, scheduled, or posted by any agent. The owner uploads by hand.",
+
+  "titles": [
+    {
+      "text": null,
+      "chars": null,
+      "style": null,
+      "honest_to_content": true,
+      "why": null
+    }
+  ],
+  "recommended_title": null,
+
+  "description": {
+    "first_two_lines": null,
+    "body": null,
+    "links": [
+      { "label": null, "url": null, "owner_must_verify": true }
+    ],
+    "ai_disclosure_line": null,
+    "sources_section": [],
+    "disclaimer": null
+  },
+
+  "chapters": [
+    { "timestamp": "0:00", "label": null }
+  ],
+
+  "tags": [],
+  "hashtags": [],
+
+  "shorts": [
+    { "which": "Short A", "title": null, "description": null, "hashtags": [] }
+  ],
+
+  "pinned_comment_draft": {
+    "text": null,
+    "_notice": "DRAFT. Do not post. The owner posts and pins this themselves if they want it."
+  },
+
+  "upload_settings_suggested": {
+    "visibility": "owner decides",
+    "made_for_kids": "owner must answer this — it is a legal declaration",
+    "altered_or_synthetic_content_disclosure": "owner must answer based on current YouTube policy",
+    "category": null,
+    "language": null,
+    "playlist": null,
+    "comments": "owner decides",
+    "_notice": "Suggestions only. No agent changes channel or video settings."
+  },
+
+  "pre_publish_checklist_completed": false,
+  "ready_for_review": false,
+  "published": false,
+  "published_at": null,
+  "video_url": null,
+  "_published_note": "Only the owner sets published:true, by hand, after they have uploaded the video themselves. No agent may set this field.",
+
+  "open_questions": []
+}

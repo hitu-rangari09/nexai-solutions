@@ -1,0 +1,50 @@
+{
+  "schema": "analytics/v1",
+  "slug": null,
+  "generated_at": null,
+  "generated_by": "analytics-review",
+
+  "_notice": "Every number in this file is supplied by the owner (typed in or exported from YouTube Studio). No agent estimates, extrapolates, or invents a metric. Empty is correct when the owner has not supplied data.",
+
+  "data_source": {
+    "supplied_by_owner_at": null,
+    "method": "manual entry | YouTube Studio CSV export",
+    "period_start": null,
+    "period_end": null
+  },
+
+  "metrics": {
+    "views": null,
+    "impressions": null,
+    "ctr_percent": null,
+    "average_view_duration_seconds": null,
+    "average_percentage_viewed": null,
+    "watch_time_hours": null,
+    "subscribers_gained": null,
+    "likes": null,
+    "comments": null,
+    "retention_notes": []
+  },
+
+  "retention_drops": [
+    { "timestamp": null, "what_happens_there": null, "hypothesis": null, "confidence": "low | medium | high" }
+  ],
+
+  "observations": [
+    { "observation": null, "evidence": null, "is_speculation": false }
+  ],
+
+  "comment_themes": [
+    { "theme": null, "example_paraphrase": null, "count": null }
+  ],
+
+  "experiments_to_try_next": [
+    { "change": null, "rationale": null, "how_to_measure": null, "_note": "A hypothesis to test, not a prediction of results." }
+  ],
+
+  "caveats": [
+    "One video is not a sample size.",
+    "Correlation here is not causation.",
+    "No forecast of future views, subscribers, or revenue is made or implied."
+  ]
+}
