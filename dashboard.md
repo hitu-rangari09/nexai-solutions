@@ -1,14 +1,14 @@
 # Video Dashboard
 
-_Generated 2026-08-18 15:36 by `tools/dashboard.py`. Status is derived from files on disk._
+_Generated 2026-08-20 07:42 by `tools/dashboard.py`. Status is derived from files on disk._
 
 `Idea → Research → Script → Voice → Visuals → Thumbnail → Ready to Upload → Published`
 
-No videos yet. Start one:
+| Video | Idea | Research | Script | Voice | Visuals | Thumbnail | Ready to Upload | Status | Next |
+|---|---|---|---|---|---|---|---|---|---|
+| **The paperwork you should already be starting, months before the portal opens**<br>`2026-08-20-the-paperwork-you-should-already-be-starting` | ● | ○ | ○ | ○ | ○ | ○ | ○ | Idea | `trend-research` → `research.json` |
 
-```bash
-python3 tools/new_video.py "your topic here"
-```
+**Totals:** Idea 1
 
 ---
 

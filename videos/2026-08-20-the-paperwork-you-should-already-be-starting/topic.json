@@ -1,0 +1,72 @@
+{
+  "schema": "topic/v1",
+  "slug": "2026-08-20-the-paperwork-you-should-already-be-starting",
+  "working_title": "The paperwork you should already be starting, months before the portal opens",
+  "generated_at": "2026-08-20",
+  "generated_by": "trend-research (Mode A)",
+
+  "one_line_premise": "A month-by-month runway for the next application cycle, built backwards from the day the portal opens — so the slow paperwork is already done when it does.",
+  "audience_question": "It's August and the application doesn't open for months. Is there anything I should be doing right now, or am I just waiting?",
+  "promise_to_viewer": "By the end you will know which items take longer than you expect, what order to do them in, and what specifically to start this month.",
+  "why_now": "August sits between cycles. Everything that bottlenecks an application — attestation chains, referees, language tests, transcript requests — has a lead time measured in weeks or months, so the useful work is happening now and almost nothing addresses it.",
+  "why_now_verified": false,
+  "why_now_note": "The 'between cycles' framing is reasoning about the calendar, not a verified claim about any specific program's dates. Every date this video anchors to must be verified against the primary source during the research stage.",
+
+  "format": "Timeline",
+  "target_length_minutes": 8,
+  "shorts_planned": 2,
+
+  "angle_options": [
+    {
+      "angle": "Reverse timeline from portal open date",
+      "why_it_works": "Turns an abstract 'start early' into a dated, checkable list. Structure the viewer can act on today.",
+      "risk": "Anchors on a portal date that is not yet verified and may move."
+    },
+    {
+      "angle": "Ranked by lead time — slowest item first",
+      "why_it_works": "Puts the genuine bottlenecks up front rather than burying them in chronological order.",
+      "risk": "Less intuitive to follow than a calendar."
+    },
+    {
+      "angle": "The four things that will make you miss the deadline",
+      "why_it_works": "Sharper hook, same content.",
+      "risk": "Edges toward fear framing, which channel.md's voice rules push against."
+    }
+  ],
+  "chosen_angle": "Reverse timeline from portal open date, with the slowest-lead-time items called out explicitly inside it",
+  "chosen_because": "Combines the actionability of a calendar with the honesty of naming the real bottlenecks, and avoids the fear framing of the third option.",
+
+  "scores": {
+    "audience_fit": 9,
+    "search_intent": 8,
+    "differentiation": 8,
+    "production_feasibility": 9,
+    "evergreen_vs_timely": 9,
+    "policy_copyright_safety": 8,
+    "total": 85,
+    "arithmetic": "(9x0.25)+(8x0.20)+(8x0.20)+(9x0.15)+(9x0.10)+(8x0.10) = 8.50 -> 85",
+    "scale": "1-100, subjective prioritization aid — NOT a performance prediction"
+  },
+
+  "anchor_program": null,
+  "anchor_program_note": "BLOCKING. The owner has not yet said which scholarship program they personally went through. The runway in this video is only first-person if it describes a cycle the owner actually lived. Do NOT run the research stage until this is filled in. If the owner went through more than one, pick the one with the most documentation.",
+
+  "known_risks": [
+    "Preparation content is less clickable than shortcut content. This is the honest tradeoff of the topic, not a fixable flaw.",
+    "Anchoring on a portal date that has not been verified against a primary source. The research stage must verify or the video says 'roughly, and check the official page'.",
+    "Describing a cycle the owner did not actually go through would forfeit the channel's only real advantage, and would violate the no-fabricated-experience rule in channel.md §6.",
+    "Lead times for attestation and transcripts vary by state and university in India. The video must not present one person's timeline as everyone's."
+  ],
+
+  "open_questions": [
+    "Which program is this anchored to? (blocks the research stage)",
+    "Channel language: English, Hindi, or Hinglish? (blocks the script stage, not research)",
+    "Does the owner still have their own dated timeline or records from their cycle, or is this reconstructed from memory? Memory is fine but must be labeled as such.",
+    "Which document steps did the owner personally do vs which will be researched? These get narrated differently."
+  ],
+
+  "owner_approved": true,
+  "owner_approved_note": "Owner approved this topic on 2026-08-20 by confirming the shortlist recommendation. Approval covers the topic only — not the anchor program, and not any later stage.",
+
+  "notes": "Ranked 1 of 5 in research/topic-shortlist-2026-08-18.json. The runner-up (the 'what fully funded does not cover' video, 82) sits on a clearer verified content gap and remains the strongest candidate for video two."
+}
